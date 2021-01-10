@@ -10,14 +10,10 @@
 <br />
 <br />
 
----
-
 ## My biggest Projects:
 
 <br />
 <br />
-
----
 
 ## Connect with me:
 
@@ -27,8 +23,6 @@
 
 <br />
 <br />
-
----
 
 ## My GitHub Activities:
 
