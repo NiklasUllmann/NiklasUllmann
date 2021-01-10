@@ -1,6 +1,4 @@
-# Hi there, I am Niklas:
-
-[<img align="center" target="_blank" alt="niklas-ullmann.de" width="250px" src="https://niklas-ullmann.de/img/niklas.jpg" />][website]
+# Hi there, I am Niklas :raised_hand_with_fingers_splayed:
 
 ## About me:
 
