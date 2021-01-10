@@ -2,6 +2,11 @@
 
 ### About me:
 
+- Corporate Student @ IBM
+- :bicyclist: Cyclist
+- :man_firefighter: Firefighter
+- :sailboat: Sailing
+
 <br />
 <br />
 
