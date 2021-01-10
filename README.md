@@ -15,7 +15,7 @@
 ### My GitHub Activities:
 
 [![Niklas github stats](https://github-readme-stats.vercel.app/api?username=NiklasUllmann&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiklasUllmann&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiklasUllmann&langs_count=8&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://niklas-ullmann.de/
 [instagram]: https://www.instagram.com/ullmannniklas/
