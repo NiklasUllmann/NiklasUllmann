@@ -1,4 +1,16 @@
-# Hi there, I am Niklas
+# Hi there, I am Niklas:
+
+### About me:
+
+<br />
+<br />
+
+---
+
+### My biggest Projects:
+
+<br />
+<br />
 
 ---
 
@@ -10,11 +22,15 @@
 
 <br />
 <br />
+
 ---
 
 ### My GitHub Activities:
 
 [![Niklas github stats](https://github-readme-stats.vercel.app/api?username=NiklasUllmann&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<br />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiklasUllmann)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://niklas-ullmann.de/
