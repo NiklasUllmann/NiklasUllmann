@@ -1,6 +1,6 @@
 # Hi there, I am Niklas:
 
-![Niklas Ullmann](https://niklas-ullmann.de/img/niklas.jpg)
+![Niklas Ullmann](https://niklas-ullmann.de/img/niklas.jpg =100x20)
 
 ## About me:
 
