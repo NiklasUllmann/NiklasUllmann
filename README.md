@@ -8,7 +8,6 @@
 - :sailboat: Sailing
 
 <br />
-<br />
 
 ## My biggest Projects:
 
@@ -21,7 +20,6 @@
 ### :stopwatch: ClaimReady App:
 
 <br />
-<br />
 
 ## Connect with me:
 
@@ -29,7 +27,6 @@
 [<img align="left" target="_blank" alt="LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" target="_blank" alt="Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
 <br />
 
 <!--
@@ -46,3 +43,4 @@
 [website]: https://niklas-ullmann.de/
 [instagram]: https://www.instagram.com/ullmannniklas/
 [linkedin]: https://www.linkedin.com/in/niklas-ullmann/
+[wbsapi]: http://wbs.niklas-ullmann.de/
