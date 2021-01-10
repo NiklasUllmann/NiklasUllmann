@@ -14,7 +14,7 @@
 
 ### :fire: WBS API:
 
-### :stopwatch: ClaimReady App
+### :stopwatch: ClaimReady App:
 
 <br />
 <br />
@@ -28,6 +28,7 @@
 <br />
 <br />
 
+<!--
 ## My GitHub Activities:
 
 [![Niklas github stats](https://github-readme-stats.vercel.app/api?username=NiklasUllmann&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -35,6 +36,8 @@
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiklasUllmann)](https://github.com/anuraghazra/github-readme-stats)
+
+-->
 
 [website]: https://niklas-ullmann.de/
 [instagram]: https://www.instagram.com/ullmannniklas/
