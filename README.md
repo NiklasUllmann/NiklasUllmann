@@ -6,6 +6,10 @@
 [<img align="left" target="_blank" alt="LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" target="_blank" alt="Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+### My GitHub Activities:
+
+[![Niklas github stats](https://github-readme-stats.vercel.app/api?username=NiklasUllmann)](https://github.com/anuraghazra/github-readme-stats)
+
 [website]: https://niklas-ullmann.de/
 [instagram]: https://www.instagram.com/ullmannniklas/
 [linkedin]: https://www.linkedin.com/in/niklas-ullmann/
