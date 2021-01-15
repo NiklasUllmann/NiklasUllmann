@@ -15,7 +15,7 @@
 
 - A free and public API to inform the German citizens about a high risk of forest fires.
 - It uses official data and provides a nice way to distribute the data in a uniform way
-- The API was very well appreciated by the population and was used more than 50000 times in the first 5 months.
+- The API was very well appreciated by the population and was used more than 50k times in the first 5 months.
 
 ### :stopwatch: ClaimReady App:
 
@@ -29,7 +29,6 @@
 
 <br />
 
-<!--
 ## My GitHub Activities:
 
 [![Niklas github stats](https://github-readme-stats.vercel.app/api?username=NiklasUllmann&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -37,8 +36,6 @@
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiklasUllmann)](https://github.com/anuraghazra/github-readme-stats)
-
--->
 
 [website]: https://niklas-ullmann.de/
 [instagram]: https://www.instagram.com/ullmannniklas/
