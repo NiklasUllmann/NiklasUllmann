@@ -31,7 +31,7 @@
 
 ## My GitHub Activities:
 
-[![Niklas github stats](https://github-readme-stats.vercel.app/api?username=NiklasUllmann&count_private=true&include_all_commits=true)](https://github.com/NiklasUllmann/NiklasUllmann)
+[![Niklas github stats](https://github-readme-stats.vercel.app/api?username=NiklasUllmann&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/NiklasUllmann/NiklasUllmann)
 
 <br />
 
