@@ -21,7 +21,7 @@
 
 <br />
 
-## My GitHub Activities:
+## My GitHub Activities (including private Repos):
 
 [![Niklas github stats](https://github-readme-stats.vercel.app/api?username=NiklasUllmann&count_private=true&show_icons=true)](https://github.com/NiklasUllmann/NiklasUllmann)
 
