@@ -23,7 +23,10 @@
 
 ## My GitHub Activities (including private Repos):
 
-[![Niklas github stats](https://github-readme-stats.vercel.app/api?username=NiklasUllmann&count_private=true&show_icons=true)](https://github.com/NiklasUllmann/NiklasUllmann)
+[![](https://raw.githubusercontent.com/NiklasUllmann/NiklasUllmann/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/NiklasUllmann/NiklasUllmann/main/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/NiklasUllmann/NiklasUllmann/main/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
 <br />
 
