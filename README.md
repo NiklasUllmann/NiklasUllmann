@@ -20,6 +20,8 @@
 
 ### :stopwatch: ClaimReady App:
 
+Coming soon :)
+
 <br />
 
 ## My GitHub Activities (including private Repos):
