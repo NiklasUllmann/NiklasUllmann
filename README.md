@@ -40,7 +40,7 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 
 ## Test
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiklasUllmann&hide=javascript,html&langs_count=10)](https://github.com/anuraghazra/github-readme-stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiklasUllmann&hide=javascript,html&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Connect with me:
 
