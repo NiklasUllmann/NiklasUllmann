@@ -1,5 +1,7 @@
 # Hi there, I am Niklas :raised_hand_with_fingers_splayed:
 
+![Intro Gif](intro.gif)
+
 ## About me:
 
 - :computer: Corporate Student @ IBM
