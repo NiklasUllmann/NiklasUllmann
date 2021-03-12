@@ -38,6 +38,10 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 
 <br />
 
+## Test
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiklasUllmann&hide=javascript,html&langs_count=10)](https://github.com/anuraghazra/github-readme-stats
+
 ## Connect with me:
 
 [<img align="left" target="_blank" alt="niklas-ullmann.de" width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
