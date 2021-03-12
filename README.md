@@ -33,7 +33,7 @@ Coming soon :)
 <br />
 ![](https://raw.githubusercontent.com/NiklasUllmann/NiklasUllmann/main/profile-summary-card-output/github/4-productive-time.svg)
 
-
+NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github
 
 
 <br />
