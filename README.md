@@ -3,7 +3,7 @@
 
 ## About me:
 
-- :computer: Corporate Student @ IBM
+- :computer: Corporate Student @ IBM for Computational Data Science
 - :bicyclist: Cyclist
 - :man_firefighter: Firefighter
 - :sailboat: Sailing
