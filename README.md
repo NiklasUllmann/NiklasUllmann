@@ -2,19 +2,12 @@
 
 
 ## About me:
-<table style="width: 100%;">
-<thead>
-  <tr>
-    <th style="text-align: left;">- :computer: Corporate Student @ IBM  </br>
-  - for Computational Data Science </br>
-- :bicyclist: Cyclist </br>
-- :man_firefighter: Firefighter </br>
-- :sailboat: Sailing </br>
-</th>
-    <th class="tg-0pky"><img style="float: right;" src="Niklas.png"></th>
-  </tr>
-</thead>
-</table>
+
+- :computer: Corporate Student @ IBM 
+  - for Computational Data Science
+- :bicyclist: Cyclist 
+- :man_firefighter: Firefighter 
+- :sailboat: Sailing 
 
 
 
