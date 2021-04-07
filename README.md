@@ -2,6 +2,7 @@
 
 
 ## About me:
+<img style="float: right;" src="Niklas.png">
 
 - :computer: Corporate Student @ IBM 
   - for Computational Data Science
