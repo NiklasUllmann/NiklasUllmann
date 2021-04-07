@@ -2,8 +2,7 @@
 
 
 ## About me:
-
-<div class="tg-wrap"><table class="tg">
+<table style="width: 100%;">
 <thead>
   <tr>
     <th style="text-align: left;">- :computer: Corporate Student @ IBM  </br>
@@ -15,7 +14,7 @@
     <th class="tg-0pky"><img style="float: right;" src="Niklas.png"></th>
   </tr>
 </thead>
-</table></div>
+</table>
 
 
 
