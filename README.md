@@ -6,8 +6,8 @@
 <div class="tg-wrap"><table class="tg">
 <thead>
   <tr>
-    <th class="tg-0pky">- :computer: Corporate Student @ IBM  </br>
-  - for Computational Data Science
+    <th style="text-align: left;">- :computer: Corporate Student @ IBM  </br>
+  - for Computational Data Science </br>
 - :bicyclist: Cyclist </br>
 - :man_firefighter: Firefighter </br>
 - :sailboat: Sailing </br>
