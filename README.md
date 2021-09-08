@@ -3,8 +3,9 @@
 
 ## About me:
 
-- :computer: Corporate Student @ IBM 
-  - for Computational Data Science
+- :computer: Student @ IBM 
+  - Master in Applied Data Science
+  - Junior Consultant for Data&AI
 - :bicyclist: Cyclist 
 - :man_firefighter: Firefighter 
 - :sailboat: Sailing 
@@ -21,7 +22,7 @@
 
 - A free and public API to inform the German citizens about a high risk of forest fires.
 - It uses official data and provides a nice way to distribute the data in a uniform way
-- The API was very well appreciated by the population and was used more than 600k times in the first 13 months.
+- The API was very well appreciated by the population and was used more than 1.5 million times in the first 15 months.
 - [WBS API](http://wbs.niklas-ullmann.de/ "WBS API")
 
 ### :stopwatch: ClaimReady App:
