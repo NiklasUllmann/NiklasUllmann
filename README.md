@@ -3,7 +3,7 @@
 
 ## About me:
 
-- :computer: Working @ :eye::bee:M
+- :computer: Working @ :eye::bee::m:
   - Junior Consultant for Data&AI
   - Master in Applied Data Science
 - :bicyclist: Cyclist 
