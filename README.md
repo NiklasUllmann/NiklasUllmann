@@ -3,9 +3,9 @@
 
 ## About me:
 
-- :computer: Student @ IBM 
-  - Master in Applied Data Science
+- :computer: Working @ IBM 
   - Junior Consultant for Data&AI
+  - Master in Applied Data Science
 - :bicyclist: Cyclist 
 - :man_firefighter: Firefighter 
 - :sailboat: Sailing 
