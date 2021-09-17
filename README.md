@@ -18,7 +18,7 @@
 
 ## My biggest Projects:
 
-### :fire: WBS API:
+### :fire: FIRE Technology:
 
 - A free and public API to inform the German citizens about a high risk of forest fires.
 - It uses official data and provides a nice way to distribute the data in a uniform way
