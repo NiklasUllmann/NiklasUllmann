@@ -33,7 +33,7 @@
 - The API was very well appreciated by the population and was used more than **3 million** times in the first 24 months.
 - [WBS API](http://wbs.niklas-ullmann.de/ "WBS API")
 
-### :stopwatch: ClaimReady App:
+### More:
 
 Coming soon :)
 
