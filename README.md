@@ -33,6 +33,10 @@
 - The API was very well appreciated by the population and was used more than **3 million** times in the first 24 months.
 - [WBS API](http://wbs.niklas-ullmann.de/ "WBS API")
 
+### :mortar_board: My Bachelorthesis:
+- "Using Attention Techniques for Explainability of Deep Learning Models in Computer Vision"
+- [Link to Code, Thesis and Presentation](https://github.com/NiklasUllmann/DHBW_BachelorThesis)
+
 ### More:
 
 Coming soon :)
