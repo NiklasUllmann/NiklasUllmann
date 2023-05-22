@@ -26,20 +26,21 @@
 
 ## My biggest Projects:
 
-### :fire: FIRE Technology:
+### :fire: FIRE Technology (2020 - today):
 
 - A free and public API to inform the German citizens about a high risk of forest fires.
 - It uses official data and provides a nice way to distribute the data in a uniform way
 - The API was very well appreciated by the population and was used more than **3 million** times in the first 24 months.
 - [WBS API](http://wbs.niklas-ullmann.de/ "WBS API")
 
-### :mortar_board: My Bachelorthesis:
+### :mortar_board: My Bachelorthesis (2021):
 - "Using Attention Techniques for Explainability of Deep Learning Models in Computer Vision"
 - [Link to Code, Thesis and Presentation](https://github.com/NiklasUllmann/DHBW_BachelorThesis)
 
-### More:
+### :mortar_board: My Masterthesis (2023):
+- Coming soon
 
-Coming soon :)
+
 
 <br />
 
