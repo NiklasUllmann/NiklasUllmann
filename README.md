@@ -39,7 +39,8 @@
 - [Link to Code, Thesis and Presentation](https://github.com/NiklasUllmann/DHBW_BachelorThesis)
 
 ### :mortar_board: My Masterthesis (2023):
-- Coming soon
+- "Identifying Ultimate Beneﬁcial Ownership from Complex Corporate Structures using Graph Machine Learning"
+- Coming soon.
 
 
 
