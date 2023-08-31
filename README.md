@@ -34,13 +34,14 @@
 - [WBS API](http://wbs.niklas-ullmann.de/ "WBS API")
 
 ### :mortar_board: My Bachelorthesis (2021):
-- "Using Attention Techniques for Explainability of Deep Learning Models in Computer Vision"
+- **Using Attention Techniques for Explainability of Deep Learning Models in Computer Vision**
 - My bachelor thesis presents a novel explainer for attention-based vision transformer, which visualizes and explains the results of image classification tasks. The results are measured by quantitative metrics and compared against the established LIME explainer. Although the attention-based explainer performed slightly worse, further fine-tuning can address the identified issues. Overall, this work contributes to enhancing comprehensibility and trust in AI models by combining attention mechanisms with model explanations.
-- [Link to Code, Thesis and Presentation](https://github.com/NiklasUllmann/DHBW_BachelorThesis)
+- [Link to Thesis, Code and Presentation](https://github.com/NiklasUllmann/DHBW_BachelorThesis)
 
 ### :mortar_board: My Masterthesis (2023):
-- "Identifying Ultimate Beneﬁcial Ownership from Complex Corporate Structures using Graph Machine Learning"
+- **Identifying Ultimate Beneﬁcial Ownership from Complex Corporate Structures using Graph Machine Learning**
 - Coming soon.
+- [Link to Thesis and Code](https://github.com/NiklasUllmann/NAK_MasterThesis)
 
 
 
