@@ -40,7 +40,7 @@
 
 ### :mortar_board: My Masterthesis (2023):
 - **Identifying Ultimate Beneﬁcial Ownership from Complex Corporate Structures using Graph Machine Learning**
-- Coming soon.
+- My master's thesis introduces an innovative graph machine learning methodology designed to identify ultimate beneficial owners within complex corporate structures. This research holds profound significance for regulatory authorities relying on such analytics to combat illegal activities like money laundering and tax evasion. The model is quantitatively evaluated and compared to the established algorithm across various general and problem-specific metrics. While the trained model demonstrated marginally inferior performance in identifying ultimate beneficial owners, its true strength emerged in addressing key challenges inherent to the algorithmic approach. It exhibited significantly improved runtime efficiency when dealing with deep and complex corporate structures. Moreover, it excelled in scenarios where the algorithm failed to yield any solution. In summary, the findings of my thesis represent a substantial step forward in the analysis of complex corporate ownership structures, offering a more efficient and transparent approach. This research enhances the effectiveness of regulatory efforts and promotes transparency within the corporate landscape.
 - [Link to Thesis and Code](https://github.com/NiklasUllmann/NAK_MasterThesis)
 
 
