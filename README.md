@@ -3,16 +3,8 @@
 
 ## About me:
 
-- :computer: Working @ :eye::bee::m:
-  - Junior Consultant for Data&AI
-  - Master in Applied Data Science
-- :bicyclist: Cyclist 
-- :man_firefighter: Firefighter 
-- :sailboat: Sailing 
-
-
-
-
+- :computer: DataScientist
+- :bicyclist: Cyclist,:man_firefighter: Firefighter,:sailboat: Sailer
 
 <br />
 
@@ -27,7 +19,7 @@
 ## My biggest Projects:
 
 ### :fire: FIRE Technology (2020 - today):
-
+- Successful initiative for digital forest fire prevention in Germany
 - A free and public API to inform the German citizens about a high risk of forest fires and preventing forest fires caused by negligence
 - It uses official data and provides a nice and easy way to access the data anywhere
 - **10k+** daily unique API calls
@@ -43,6 +35,23 @@
 - My master's thesis introduces an innovative graph machine learning methodology designed to identify ultimate beneficial owners within complex corporate structures. This research holds profound significance for regulatory authorities relying on such analytics to combat illegal activities like money laundering and tax evasion. The model is quantitatively evaluated and compared to the established algorithm across various general and problem-specific metrics. While the trained model demonstrated marginally inferior performance in identifying ultimate beneficial owners, its true strength emerged in addressing key challenges inherent to the algorithmic approach. It exhibited significantly improved runtime efficiency when dealing with deep and complex corporate structures. Moreover, it excelled in scenarios where the algorithm failed to yield any solution. In summary, the findings of my thesis represent a substantial step forward in the analysis of complex corporate ownership structures, offering a more efficient approach. This research enhances the effectiveness of regulatory efforts and promotes transparency within the corporate landscape.
 - [Link to Thesis and Code](https://github.com/NiklasUllmann/NAK_MasterThesis)
 
+
+## My Education Path
+
+From the very beginning, my education was characterized by a great interest in mathematics, algorithms and understanding how the world works. With the excellent combination of theory and hands-on experience, I have always been able to gain important experience and challenge and improve myself every time.
+
+### M.Sc. Applied DataScience (2021 - 2023)
+- Courses in machine learning, text analytics, process mining, Mining, Statistics, Data Mining and much more
+- Thesis: Identifying Ultimate Beneﬁcial Ownership from Complex Corporate Structures using Graph Machine Learning
+- Final grade: 1.3
+
+### B.Sc. Computer Science - Computational DataScience (2018 - 2021)
+- Courses in software engineering, databases, basics of AI, mathematics and much more.
+- Thesis: Using Attention Techniques for Explainability of Deep Learning Models in Computer Vision
+- Final grade: 1.7
+
+### A-Level Graduation (2017)
+- Final grade: 1.3
 
 
 <br />
