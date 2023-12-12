@@ -18,19 +18,19 @@
 
 ## My biggest Projects:
 
-###  :fire: FIRE Technology (2020 - today):
+###  🔥 FIRE Technology (2020 - today):
 - Successful initiative for digital forest fire prevention in Germany
 - A free and public API to inform the German citizens about a high risk of forest fires and preventing forest fires caused by negligence
 - It uses official data and provides a nice and easy way to access the data anywhere
 - **10k+** daily unique API calls
 - [WBS API](http://wbs.niklas-ullmann.de/ "WBS API")
 
-###  :mortar_board: My Bachelorthesis (2021):
+###  🎓 My Bachelorthesis (2021):
 - **Using Attention Techniques for Explainability of Deep Learning Models in Computer Vision**
 - My bachelor thesis presents a novel explainer for attention-based vision transformer, which visualizes and explains the results of image classification tasks. The results are measured by quantitative metrics and compared against the established LIME explainer. Although the attention-based explainer performed slightly worse, further fine-tuning can address the identified issues. Overall, this work contributes to enhancing comprehensibility and trust in AI models by combining attention mechanisms with model explanations.
 - [Link to Thesis, Code and Presentation](https://github.com/NiklasUllmann/DHBW_BachelorThesis)
 
-###  :mortar_board: My Masterthesis (2023):
+###  🎓 My Masterthesis (2023):
 - **Identifying Ultimate Beneﬁcial Ownership from Complex Corporate Structures using Graph Machine Learning**
 - My master's thesis introduces an innovative graph machine learning methodology designed to identify ultimate beneficial owners within complex corporate structures. This research holds profound significance for regulatory authorities relying on such analytics to combat illegal activities like money laundering and tax evasion. The model is quantitatively evaluated and compared to the established algorithm across various general and problem-specific metrics. While the trained model demonstrated marginally inferior performance in identifying ultimate beneficial owners, its true strength emerged in addressing key challenges inherent to the algorithmic approach. It exhibited significantly improved runtime efficiency when dealing with deep and complex corporate structures. Moreover, it excelled in scenarios where the algorithm failed to yield any solution. In summary, the findings of my thesis represent a substantial step forward in the analysis of complex corporate ownership structures, offering a more efficient approach. This research enhances the effectiveness of regulatory efforts and promotes transparency within the corporate landscape.
 - [Link to Thesis and Code](https://github.com/NiklasUllmann/NAK_MasterThesis)
