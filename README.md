@@ -65,15 +65,6 @@ From the very beginning, my education was characterized by a great interest in m
 
 [![](https://raw.githubusercontent.com/NiklasUllmann/NiklasUllmann/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 <br />
-[![](https://raw.githubusercontent.com/NiklasUllmann/NiklasUllmann/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/NiklasUllmann/NiklasUllmann/main/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-<br />
-
-
-NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github
-
-
-<br />
 
 
 
